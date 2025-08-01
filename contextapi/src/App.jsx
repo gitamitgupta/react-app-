@@ -1,11 +1,14 @@
- import React  from "react"
+import React from "react"
 
 function App() {
   return (
     <>
-    <h1> this is heading </h1>
+      <h1> context api </h1>
+      <p> </p>
+      
     </>
   )
+
 }
 
 export default App
